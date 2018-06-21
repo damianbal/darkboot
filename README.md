@@ -2,6 +2,9 @@
 
 Dark theme for Bootstrap 4, well also bundled with bootstrap, so the css in dist is only what you need :)
 
+![Darkboot image](img/darkboot.png?raw=true "Darkboot")
+
+
 ## Getting Started
 
 You can either use provided css from dist directory or build and customize your own build, source scss file is in scss directory, already with bootstrap 4.
